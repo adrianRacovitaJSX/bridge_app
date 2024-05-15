@@ -1,6 +1,6 @@
-# Bridge App
+# ![Bridge Logo](https://bridge.aracovita.dev/icons/logo.svg) Bridge App
 
-Bridge App es una aplicación para realizar reuniones y videollamadas construida con Next.js y Tailwind CSS, Clerk y Stream, entre otras tecnologías.
+Bridge es una aplicación para realizar reuniones y videollamadas construida con Next.js y Tailwind CSS, Clerk y Stream, entre otras tecnologías.
 
 ## Características
 
