@@ -113,7 +113,7 @@ const { toast } = useToast()
              <MeetingModal 
              isOpen={meetingState === 'isScheduleMeeting'}
              onClose={() => setMeetingState(undefined)}
-             title= 'Iniciar reunión instantánea'
+             title= 'Programar una reunión'
              buttonText='Programar reunión'
              handleClick={createMeeting}
            >
