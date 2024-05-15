@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+	<title>logo-svg</title>
+	<defs>
+		<image  width="24" height="21" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAVCAMAAABrN94UAAAAAXNSR0IB2cksfwAAAMZQTFRFAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////w08d2gAAAEJ0Uk5TADB/v+fv7OaIRwgNjO79//789MlsLAC5kiXDfQEJBM1kHPcCpvjpFNJRqUbL3FUp5LFJBXnt8M+XaUui0fXyu2IbbMBEVQAAAMBJREFUeJx1kd0OwUAQhef4aUOJ+BuRqMQzuBEv7xEkbkTcSIoKghISi7KLvWi7PVc758vOnOSAiPDTMw/cSAvkKPM/hJRV0069GSKkqDL2RgHxpoRylg++J30iZ50CqITOxQhCuGcjALqBEchUj3haDQqnFFA8mm+wczCBOri8N4EmmCrbpN+Sq6jmJxfZUwkaq7jPVrCUgL1YIBcTFbftvSJ+D5hdVYN9YK4r4arsb/G9qUodAsLGWAxk6yP98QMqYiz4Hg05MwAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		.s0 { fill: #595bd4 } 
+	</style>
+	<use id="Capa 1" href="#img1" x="4" y="6"/>
+	<path id="Layer" fill-rule="evenodd" class="s0" d="m32 16c0 8.8-7.2 16-16 16-8.8 0-16-7.2-16-16 0-8.8 7.2-16 16-16 8.8 0 16 7.2 16 16zm-25-4.5v9q0 0.3 0.2 0.5 0.1 0.3 0.3 0.5 0.2 0.2 0.5 0.4 0.2 0.1 0.5 0.1h10.2c0.9 0 1.5-0.8 1.5-1.5v-1.3l1.3 1.5c0.1 0 0.1 0 0.3 0h2.9c0.1 0 0.3-0.1 0.3-0.3v-8.9c0-0.2-0.2-0.3-0.3-0.3h-3q-0.1 0-0.2 0.1l-1.4 1.7v-1.5c0-0.7-0.5-1.2-1.2-1.3l-0.1-0.1c0 0 0-0.1-0.1-0.1h-10.2c-0.8 0-1.5 0.7-1.5 1.5z"/>
+</svg>
